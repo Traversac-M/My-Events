@@ -1,0 +1,13 @@
+.dropdown .fa-user {
+  font-size: 50px;
+  color: #08202e;
+}
+
+.bg-navbar {
+  background-image: radial-gradient(circle, #ec3b88, #e23580, #d82f78, #ce2870, #c42268);
+}
+
+.navbar-brand img {
+  width: 200px;
+  height: auto;
+}

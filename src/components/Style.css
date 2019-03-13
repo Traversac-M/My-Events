@@ -1,0 +1,37 @@
+.btn-pink {
+	font-weight: bold;
+	color: white;
+	background-image: radial-gradient(circle, #ec3b88, #e23580, #d82f78, #ce2870, #c42268);
+}
+
+.btn-pink:hover {
+	font-weight: bold;
+	color: white;
+	background-image: radial-gradient(circle, #c61762, #c1155f, #bc145c, #b81259, #b31056);
+
+}
+
+.btn-outline-pink {
+	font-weight: bold;
+	color: #ec3b88;
+}
+
+.btn-outline-pink:hover {
+	font-weight: bold;
+	color: white;
+	background-image: radial-gradient(circle, #ec3b88, #e23580, #d82f78, #ce2870, #c42268);
+}
+
+::-webkit-scrollbar {
+    width: 9px;
+}
+ 
+::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.2); 
+    border-radius: 10px;
+}
+ 
+::-webkit-scrollbar-thumb {
+    border-radius: 10px;
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.5); 
+}
